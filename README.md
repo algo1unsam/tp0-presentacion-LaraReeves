@@ -3,7 +3,6 @@
 ## Estudiante: Lara Reeves
 
 ## Foto :)
-https://photos.google.com/photo/AF1QipONDtAytGlks5qOoeT1ryxmCRfXYstLEQhVi-NZ
 
 ##Sobre mi: Tengo 21 años y hace aproximadamente 3 años se despertó mi curiosidad por la programación. Desde chica me gusta la tecnologia y 
 videojuegos. Tambien soy amante de la musica y la cocina :).
