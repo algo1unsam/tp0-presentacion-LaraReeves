@@ -2,6 +2,15 @@
 
 ## Estudiante: Lara Reeves
 
+## Foto :)
+https://photos.google.com/photo/AF1QipONDtAytGlks5qOoeT1ryxmCRfXYstLEQhVi-NZ
+
+##Sobre mi: Tengo 21 años y hace aproximadamente 3 años se despertó mi curiosidad por la programación. Desde chica me gusta la tecnologia y 
+videojuegos. Tambien soy amante de la musica y la cocina :).
+En cuanto a mi persona me puedo considerar una persona responsable, activa y con gran interes en aprender. Me gusta adquirir nuevos conocimientos
+y poder implementarlos en mi vida.
+
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 2 simples tareas:
